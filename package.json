@@ -1,0 +1,19 @@
+{
+  "name": "gamechallenge",
+  "version": "1.0.0",
+  "description": "Game to develop a CRUD and try PUG",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./app/views/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Becerra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
