@@ -1,5 +1,5 @@
 # GameChanllenge
-## Juego de datos para 3 jugadores
+## Juego de dados para 3 jugadores
 Se presenta un juego con 3 rutas
 
 - Para la ruta createGame, se permite crear el juego con 3 jugadores y cada uno fija su apuesta.
