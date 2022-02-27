@@ -6,5 +6,5 @@ Se presenta un juego con 3 rutas
 - En la ruta startGame, se inicia el juego y nos arroja un ganador de entre los 3 jugadores
 - Finalmente en la ruta games, se listan todos los juegos con los respectivos jugadores y ganadores de los mismos
 
-Prototipo desarrollado por Diego Fernando Becerra Zambrano
-email diegofer1110@gmail.com
+Prototipo desarrollado por Diego Fernando Becerra Zambrano/n
+email: diegofer1110@gmail.com
